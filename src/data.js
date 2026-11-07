@@ -89,7 +89,7 @@ export const projects = [
     stack: ['Flutter', 'Express.js', 'Prisma', 'PostgreSQL'],
     repo: 'https://github.com/ilman011004/Laundry-App',
     demo: '',
-    image: '',
+    image: '/projects/laundry-app.png',
   },
   {
     title: 'Social App RI',
@@ -99,7 +99,7 @@ export const projects = [
     stack: ['Flutter', 'Dart', 'Firebase', 'GetX'],
     repo: 'https://github.com/SulthanRiq/SocialAppRI',
     demo: '',
-    image: '',
+    image: '/projects/social-app-ri.png',
   },
   {
     title: 'Tanbu Mobile',
@@ -109,7 +109,7 @@ export const projects = [
     stack: ['Flutter', 'Dart', 'Firebase', 'GetX'],
     repo: 'https://github.com/ilman011004/tanbumobile',
     demo: '',
-    image: '',
+    image: '/projects/tanbu-mobile.png',
   },
 ]
 
