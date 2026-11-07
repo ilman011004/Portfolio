@@ -8,15 +8,12 @@ function Thumb({ project }) {
   const [failed, setFailed] = useState(false)
   if (project.image && !failed) {
     return (
-      <div className="flex aspect-[16/10] w-full items-center justify-center overflow-hidden rounded-lg bg-canvas">
-        <img
-          src={project.image}
-          alt={`Tampilan proyek ${project.title}`}
-          onError={() => setFailed(true)}
-          loading="lazy"
-          className="size-full object-contain"
-        />
-      </div>
+      <img
+        src={project.image}
+        alt={`Tampilan proyek ${project.title}`}
+        onError={() => setFailed(true)}
+        className="aspect-[16/10] w-full rounded-lg object-cover"
+      />
     )
   }
   return (
