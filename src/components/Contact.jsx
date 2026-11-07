@@ -11,11 +11,11 @@ export default function Contact() {
   return (
     <section id="kontak" className="bg-ink py-16 text-sheet md:py-24">
       <div className="mx-auto max-w-6xl px-5">
-        <h2 className="font-display text-4xl font-extrabold tracking-tight md:text-6xl">
-          Punya proyek atau lowongan untuk saya?
+        <h2 className="max-w-4xl font-display text-4xl font-extrabold tracking-tight md:text-6xl">
+          Butuh website atau desain yang rapi dan berfungsi?
         </h2>
         <p className="mt-4 max-w-xl text-lg text-[#c9cde0]">
-          Kirim pesan lewat salah satu kontak di bawah. Saya biasanya membalas dalam satu hari.
+          Ceritakan kebutuhan Anda. Saya bantu dari rancangan tampilan sampai website siap dipakai.
         </p>
 
         <a
