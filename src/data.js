@@ -79,7 +79,7 @@ export const projects = [
     stack: ['React', 'Tailwind CSS', 'Express.js', 'PostgreSQL'],
     repo: 'https://github.com/ilman011004/Anime-web',
     demo: '',
-    image: '',
+    image: '/projects/anime-web.png',
   },
   {
     title: 'Laundry App',
