@@ -27,7 +27,7 @@ export const profile = {
   // Foto ada di public/foto.jpg
   photo: '/foto.jpg',
   // Taruh CV di public/cv-ilman-nafian.pdf lalu ganti jadi '/cv-ilman-nafian.pdf'
-  cv: '',
+  cv: '/cv-ilman-nafian.pdf',
 }
 
 export const skills = [
