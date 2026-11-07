@@ -56,7 +56,7 @@ export const projects = [
     type: 'Web',
     description:
       'Website yayasan yang menaungi sekolah dari jenjang PAUD sampai SMA. Tiap jenjang punya halaman sendiri berisi profil, program, tenaga pengajar, galeri, dan berita, serta pendaftaran siswa baru (PPDB) secara online. Pengelola mengatur semuanya lewat panel admin.',
-    stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite'],
+    stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite','PostgreSQL'],
     repo: 'https://github.com/ilman011004/Sch_AR-RASYID_Web',
     demo: '',
     image: '/projects/sekolah-ar-rasyid.png',
@@ -66,7 +66,7 @@ export const projects = [
     type: 'Web',
     description:
       'Panduan wisata Tanah Bumbu yang memuat destinasi wisata, wisata kuliner, dan hotel, lengkap dengan ulasan pengunjung dan agenda kegiatan. Isinya diatur lewat panel admin.',
-    stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite'],
+    stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite', 'mySQL'],
     repo: 'https://github.com/ilman011004/Wisata.Tanbu-web',
     demo: '',
     image: '/projects/wisata-tanah-bumbu.png',
