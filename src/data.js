@@ -48,7 +48,7 @@ export const projects = [
     stack: ['Laravel', 'PHP', 'MySQL', 'Bootstrap', 'JavaScript'],
     repo: 'https://github.com/ilman011004/yayasan-permata-batulicin',
     demo: 'https://permatabtl.org/',
-    image: '',
+    image: '/projects/yayasan-permata-batulicin.png',
     featured: true,
   },
   {
