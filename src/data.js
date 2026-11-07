@@ -59,7 +59,7 @@ export const projects = [
     stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite'],
     repo: 'https://github.com/ilman011004/Sch_AR-RASYID_Web',
     demo: '',
-    image: '',
+    image: '/projects/sekolah-ar-rasyid.png',
   },
   {
     title: 'Wisata Tanah Bumbu',
@@ -69,7 +69,7 @@ export const projects = [
     stack: ['Laravel', 'PHP', 'Tailwind CSS', 'Vite'],
     repo: 'https://github.com/ilman011004/Wisata.Tanbu-web',
     demo: '',
-    image: '',
+    image: '/projects/wisata-tanah-bumbu.png',
   },
   {
     title: 'Anime Web',
