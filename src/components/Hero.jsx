@@ -67,12 +67,7 @@ export default function Hero() {
             floatClass="float-a"
             className="cursor-dev -right-4 top-1/2 sm:-right-24 sm:top-[18%]"
           />
-          <Cursor
-            color="#ffc933"
-            label="Graphic Designer"
-            floatClass="float-b"
-            className="cursor-des -left-2 bottom-[-3.25rem] sm:-left-20 sm:bottom-[8%]"
-          />
+
         </div>
 
         <div className="mx-auto mt-20 max-w-2xl text-center sm:mt-16">
