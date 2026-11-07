@@ -162,6 +162,16 @@ export const experiences = [
       'Observasi dan wawancara dengan pemangku kepentingan untuk menganalisis kebutuhan website profil yayasan CSR.',
       'Membangun UI, front-end, dan back-end website dengan Bootstrap CSS, JavaScript, Laravel, PHP, dan MySQL.',
       'Menjalankan User Acceptance Testing (UAT) bersama pemangku kepentingan sampai deployment berhasil, sehingga dokumentasi dan transparansi program PPM lebih mudah diakses.',
+    ],
+  },
+    {
+    role: 'Asiten Trainer Kursus Komputer & Desain Grafis, Batulicin Community Center (BCC)',
+    org: 'PT. Arutmin Indonesia, Tambang Batulicin',
+    place: 'Tanah Bumbu, Kalimantan Selatan',
+    period: 'Agustus 2025 – September 2025',
+    duration: '1,5 bulan',
+    kind: 'Pelatihan',
+    points: [
       'Membantu instruktur melatih masyarakat binaan dalam pengoperasian dasar komputer dan Microsoft Office (Word & Excel), termasuk pendampingan one-on-one.',
       'Membantu praktik desain grafis dengan Canva, dari ide sampai produk digital seperti poster dan konten media sosial.',
     ],
